@@ -1,12 +1,11 @@
 # Delivery Tecno Júnior
-Este é um projeto de extensão voltado para o desenvolvimento de uma aplicação mobile de delivery que teve como orientadores os professores Hélder Conceição Almeida e Elinaldo Santos de Góes Júnior
-
+Este é um projeto de extensão voltado para o desenvolvimento de uma aplicação mobile de delivery, que tem como intuito servir de modelo para novos integrantes da Tecno júnior.
 
 ### Título do Projeto/Programa de Extensão: 
-Associação Civil Tecno Júnior
+Associação Civil Tecno Júnior.
 
 ### Professor orientador: 
-Hélder Conceição Almeida e Elinaldo Santos de Góes Júnior
+Hélder Conceição Almeida e Elinaldo Santos de Góes Júnior.
 
 Demonstração:
 
